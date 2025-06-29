@@ -66,6 +66,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/RonitSachdev/RonitSachdev/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/RonitSachdev/RonitSachdev/blob/output/github-snake.svg" />
 
 ###
