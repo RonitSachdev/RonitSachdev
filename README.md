@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ronit and I'm a Full-Stack Developer and a Music Producer!</h2>
+<h2 align="left">Hi 👋! My name is Ronit and I'm a Full-Stack Developer and a music producer!</h2>
 
 ###
 
@@ -51,14 +51,8 @@
   <a href="ronitsachdev007@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://jp.linkedin.com/in/ronitsachdev/en" target="_blank">
+  <a href="https://www.linkedin.com/in/ronitsachdev/?locale=jp" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@ronitsachdevv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/ronit_sachdev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.npmjs.com/~ronitsachdev" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" height="35" alt="npm logo"  />
