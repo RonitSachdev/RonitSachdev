@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzlldzA0MThrbnAzc3pqd3V1MmlsZTA0d3Y2ZXkzcGFmOGZ4M3p3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rDZuJKhOcLTEI/giphy.gif"  />
-
-###
-
 <div align="left">
   <a href="ronitsachdev007@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
